@@ -1,6 +1,39 @@
-# Navigating Self-Regulated Learning Dimensions: Exploring Interactions Across Modalities
+# Navigating self-regulated learning dimensions across modalities
 
-This repository contains the supplementary material for the AIED 2024 submission. 
+Supplementary material for the paper: the instrument items and the feature definitions used to compare self-reported and trace-based measures of self-regulated learning.
 
-Abstract: Self-regulated learning (SRL) has been extensively studied using self-reported measures, such as surveys, and more recently, behavioral measures, such as trace data. While both modalities offer insights into SRL, their relationship remains ambiguous. Although previous research has compared these modalities, there has been limited work on integrating them and exploring the interplay of dimensions across modalities. To address this gap, we adopt a multimodal perspective and follow a threefold approach: horizontal, vertical, and integrated analyses. We identify behaviors per dimension from both data sources in the horizontal analysis. We then assess the alignment of dimensions across modalities in the vertical analysis. Finally, in the integrated analysis, we uncover the intricate interplay between dimensions across modalities using Canonical Correlation Analysis. For this purpose, we design and conduct a study with 79 participants interacting with an Intelligent Tutoring System. We find limited agreement in the vertical comparison between modalities. However, the integrated analysis reveals a moderate correlation, highlighting the complex relationship between behavioral actions and self-reported SRL perceptions. 
+**Navigating Self-regulated Learning Dimensions: Exploring Interactions Across Modalities**  
+Paola Mejia-Domenzain, Tanya Nazaretsky, Simon Schultze, Jan Hochweber, Tanja Käser. *AIED 2024*, 2024.  
+[DOI](https://doi.org/10.1007/978-3-031-64299-9_8) · [Abstract and BibTeX](https://paola-md.github.io/papers/navigating-self-regulated-learning-dimensions-exploring-interactions-acr.html)
 
+## What is here
+
+```
+supplementary-material/
+  srl-o-items.pdf     the self-report questionnaire items
+  ecd-features.pdf    the trace-data feature definitions
+LICENSE
+```
+
+There is no code in this repository; the analysis is described in the paper.
+
+## Cite
+
+```bibtex
+@incollection{mejiadomenzain2024navigating,
+  title      = {{Navigating Self-regulated Learning Dimensions: Exploring Interactions Across Modalities}},
+  author     = {Paola Mejia-Domenzain and Tanya Nazaretsky and Simon Schultze and Jan Hochweber and Tanja Käser},
+  year       = {2024},
+  booktitle  = {Lecture Notes in Computer Science},
+  publisher  = {Springer Science+Business Media},
+  doi        = {10.1007/978-3-031-64299-9_8},
+  url        = {https://paola-md.github.io/papers/navigating-self-regulated-learning-dimensions-exploring-interactions-acr.html}
+}
+```
+
+
+## Licence and status
+
+MIT, see `LICENSE`.
+
+Not maintained: kept as the record of the paper.
